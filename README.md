@@ -4,13 +4,15 @@ I'm a **Bioinformatics data scientist** passionate about machine learning and di
 
 ---
 
-## 🔬 About Me
+## About Me
 彡 PhD degree in computational molecular biology, and 9+ years of experience
+
 彡 Highly skilled in programming (mostly Python and R), applying machine learning methods for analysing, and integrating various large-scale genomic data, data visualisation, and creative thinking
+
 彡 Thrives in dynamic international environments, with high collaboration between teams
 ---
 
-## 🚀 Some sample projects
+## Some sample projects:
 
 | Project | Description | Link |
 |--------|------------|------|
@@ -22,7 +24,7 @@ https://github.com/katwre/Personalities
 | **Interactive tool in html+Pyodide for a career match** | [🔗 Repository](https://github.com/katwre/Personalities) |
 ---
 
-## 📫 Let's Connect
+## Connect with me via:
 - 🌐 [My Website](https://https://katwre.github.io/)
 - 💼 [LinkedIn](https://linkedin.com/in/katwre)
 - 🐦 [Twitter](https://twitter.com/katwre)
