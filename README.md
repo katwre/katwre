@@ -16,7 +16,7 @@ I'm a Bioinformatics data scientist passionate about machine learning and diseas
 ## Some sample projects:
 
 | Project | Link |
-|--------|------------|------|
+|--------|------------|
 | **Machine and deep learning projects** | [🔗 Repository](https://github.com/katwre/ML-projects) |
 | **Bioinformatics projects** | [🔗 Repository](https://github.com/katwre/bioinformatics-projects) |
 | **Sudoku game implemented in JavaScript and JQuery** | [🔗 Repository](https://github.com/katwre/sudoku) |
