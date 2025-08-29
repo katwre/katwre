@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Kasia!
 
-<!--
-**katwre/katwre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Bioinformatics data scientist** passionate about machine learning and disease (epi)genomics.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About Me
+彡 PhD degree in computational molecular biology, and 9+ years of experience
+彡 Highly skilled in programming (mostly Python and R), applying machine learning methods for analysing, and integrating various large-scale genomic data, data visualisation, and creative thinking
+彡 Thrives in dynamic international environments, with high collaboration between teams
+---
+
+## 🚀 Some sample projects
+
+| Project | Description | Link |
+|--------|------------|------|
+| **Bioinformatics projects** | [🔗 Repository](https://github.com/katwre/bioinformatics-projects) |
+| **Machine and deep learning projects** | [🔗 Repository](https://github.com/katwre/ML-projects) |
+https://github.com/katwre/Personalities
+| **Sudoku game implemented in JavaScript and JQuery** | [🔗 Repository](https://github.com/katwre/sudoku) |
+| **Minesweeper game implemented in Java using SWING and AWT libraries** | [🔗 Repository](https://github.com/katwre/Minesweeper) |
+| **Interactive tool in html+Pyodide for a career match** | [🔗 Repository](https://github.com/katwre/Personalities) |
+---
+
+## 📫 Let's Connect
+- 🌐 [My Website](https://https://katwre.github.io/)
+- 💼 [LinkedIn](https://linkedin.com/in/katwre)
+- 🐦 [Twitter](https://twitter.com/katwre)
+- ✉️ Email: katwre@gmail.com
