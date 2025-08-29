@@ -17,8 +17,8 @@ I'm a Bioinformatics data scientist passionate about machine learning and diseas
 
 | Project | Description | Link |
 |--------|------------|------|
-| **Bioinformatics projects** | [🔗 Repository](https://github.com/katwre/bioinformatics-projects) |
 | **Machine and deep learning projects** | [🔗 Repository](https://github.com/katwre/ML-projects) |
+| **Bioinformatics projects** | [🔗 Repository](https://github.com/katwre/bioinformatics-projects) |
 | **Sudoku game implemented in JavaScript and JQuery** | [🔗 Repository](https://github.com/katwre/sudoku) |
 | **Minesweeper game implemented in Java using SWING and AWT libraries** | [🔗 Repository](https://github.com/katwre/Minesweeper) |
 | **Interactive tool in html+Pyodide for a career match** | [🔗 Repository](https://github.com/katwre/Personalities) |
