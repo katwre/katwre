@@ -15,6 +15,8 @@ I'm a Bioinformatics data scientist passionate about machine learning and diseas
 
 ## Some sample projects:
 
+ML/DL:
+
 | Project | Link |
 |--------|------------|
 | **Machine and deep learning projects** | [🔗 Repository](https://github.com/katwre/ML-projects) |
@@ -22,7 +24,13 @@ I'm a Bioinformatics data scientist passionate about machine learning and diseas
 | **R package for transcription regulatory networks from NGS** | [🔗 Repository](https://github.com/katwre/motifActivity)
 | **My contributions to Bioc R package genomation** | [🔗 Repository](https://github.com/BIMSBbioinfo/genomation/graphs/contributors)|
 
-And other:
+Data engineering:
+
+| Project | Link |
+|--------|------------|
+| **Data engineering projects** | [🔗 Repository](https://github.com/katwre/Data_engineering-projects) |
+
+Web-based:
 | Project | Link |
 |--------|------------|
 | **Sudoku game implemented in JavaScript and JQuery** | [🔗 Repository](https://github.com/katwre/sudoku) |
