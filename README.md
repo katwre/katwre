@@ -35,7 +35,9 @@ Web-based:
 |--------|------------|
 | **Sudoku game implemented in JavaScript and JQuery** | [🔗 Repository](https://github.com/katwre/sudoku) |
 | **Minesweeper game implemented in Java using SWING and AWT libraries** | [🔗 Repository](https://github.com/katwre/Minesweeper) |
-| **Interactive tool in html+Pyodide for a career match** | [🔗 Repository](https://github.com/katwre/Personalities) |
+| **Interactive tool in html+pyodide for finding career match** | [🔗 Repository](https://github.com/katwre/Personalities) |
+|**Django-based server for Multiple Sequence Alignment visualization** | [🔗 Repository](https://github.com/freesci/MSA-vis-project) |
+|**Mobile application using Django, manifesto app, and localStorage** | [🔗 Repository](https://github.com/katwre/phone_application) |
 
 ---
 
