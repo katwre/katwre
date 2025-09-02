@@ -42,7 +42,7 @@ Web-based:
 ---
 
 ## Connect with me via:
-- 🌐 [My website](https://https://katwre.github.io/)
+- 🌐 [My website](https://katwre.github.io/)
 - 💼 [LinkedIn](https://linkedin.com/in/katwre)
 - 🐦 [Twitter](https://twitter.com/katwre)
 - ✉️ Email: katwre@gmail.com
