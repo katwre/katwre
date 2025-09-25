@@ -16,7 +16,7 @@ ML/DL:
 | **Machine and deep learning projects:** | [🔗 Repository](https://github.com/katwre/ML-projects) |
 | 1. Autoencoders for dimensionality reduction and data imputation | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/autoencoder_scRNAseq) |
 | 2. CNNs and transfer learning for image classification tasks based on chest X-rays | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/CNN_and_TransferLearning_Xray) |
-| 3. Survival analysis with clinical and gene expression data | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/survival_analysis_multiple_myeloma) |
+| 3. Survival analysis with clinical and gene expression data | [🔗 Repository](https://github.com/katwre/survival_analysis/tree/main) |
 | 4. VAE to mitigate batch effects in scRNA-seq using federated learning | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/federated_learning_scRNA-seq) |
 | 5. RAG in bioinformatics | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/RAG_minimal) |
 | 6. Bayesian State Space Model | [🔗 Repository](SSM_minimal) |
