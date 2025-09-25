@@ -23,6 +23,8 @@ ML/DL:
 | 7. VAE, BERT language model/transformer, semi-supervised NMF and lasso/ridge regression/elastic net for the cell type deconvolution | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/VAE_NMF_Transformer_regression_cfDNA) |
 
 
+| Project | Link |
+|--------|------------|
 | **Bioinformatics projects** | [🔗 Repository](https://github.com/katwre/bioinformatics-projects) |
 | 1. Replica exchange Monte Carlo algorithms for protein folding | [🔗 Repository](https://github.com/katwre/bioinformatics-projects/tree/master/Molecular_Dynamics) |
 | 2. Regulatory region discovery using overrepresented motifs and Ensembl public MySQL Servers | [🔗 Repository](https://github.com/katwre/bioinformatics-projects/tree/master/bio_motif_ensembl) |
