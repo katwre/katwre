@@ -13,32 +13,32 @@ ML/DL:
 
 | Project | Link |
 |--------|------------|
-| **Machine and deep learning projects:** | [🔗 Repository](https://github.com/katwre/ML-projects) |
-| 1. Autoencoders for dimensionality reduction and data imputation | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/autoencoder_scRNAseq) |
-| 2. CNNs and transfer learning for image classification tasks based on chest X-rays | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/CNN_and_TransferLearning_Xray) |
-| 3. Survival analysis with clinical and gene expression data | [🔗 Repository](https://github.com/katwre/survival_analysis/tree/main) |
-| 4. VAE to mitigate batch effects in scRNA-seq using federated learning | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/federated_learning_scRNA-seq) |
-| 5. RAG in bioinformatics | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/RAG_minimal) |
-| 6. Bayesian State Space Model | [🔗 Repository](SSM_minimal) |
-| 7. VAE, BERT language model/transformer, semi-supervised NMF and lasso/ridge regression/elastic net for the cell type deconvolution | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/VAE_NMF_Transformer_regression_cfDNA) |
+| **Machine and deep learning projects:** | [🔗 Link](https://github.com/katwre/ML-projects) |
+| 1. Autoencoders for dimensionality reduction and data imputation | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/autoencoder_scRNAseq) |
+| 2. CNNs and transfer learning for image classification tasks based on chest X-rays | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/CNN_and_TransferLearning_Xray) |
+| 3. Survival analysis with clinical and gene expression data | [🔗 Link](https://github.com/katwre/survival_analysis/tree/main) |
+| 4. VAE to mitigate batch effects in scRNA-seq using federated learning | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/federated_learning_scRNA-seq) |
+| 5. RAG in bioinformatics | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/RAG_minimal) |
+| 6. Bayesian State Space Model | [🔗 Link](SSM_minimal) |
+| 7. VAE, BERT language model/transformer, semi-supervised NMF and lasso/ridge regression/elastic net for the cell type deconvolution | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/VAE_NMF_Transformer_regression_cfDNA) |
 
 
 | Project | Link |
 |--------|------------|
-| **Bioinformatics projects** | [🔗 Repository](https://github.com/katwre/bioinformatics-projects) |
-| 1. Replica exchange Monte Carlo algorithms for protein folding | [🔗 Repository](https://github.com/katwre/bioinformatics-projects/tree/master/Molecular_Dynamics) |
-| 2. Regulatory region discovery using overrepresented motifs and Ensembl public MySQL Servers | [🔗 Repository](https://github.com/katwre/bioinformatics-projects/tree/master/bio_motif_ensembl) |
-| 3. De Bruijn Graph implementation with Eulerian walk-finder | [🔗 Repository](https://github.com/katwre/bioinformatics-projects/tree/master/genome_assembly) |
-| **R package for transcription regulatory networks from NGS** | [🔗 Repository](https://github.com/katwre/motifActivity)
+| **Bioinformatics projects** | [🔗 Link](https://github.com/katwre/bioinformatics-projects) |
+| 1. Replica exchange Monte Carlo algorithms for protein folding | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/Molecular_Dynamics) |
+| 2. Regulatory region discovery using overrepresented motifs and Ensembl public MySQL Servers | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/bio_motif_ensembl) |
+| 3. De Bruijn Graph implementation with Eulerian walk-finder | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/genome_assembly) |
+| **R package for transcription regulatory networks from NGS** | [🔗 Link](https://github.com/katwre/motifActivity)
 
 
 Data engineering:
 
 | Project | Link |
 |--------|------------|
-| **Data engineering projects** | [🔗 Repository](https://github.com/katwre/Data_engineering-projects) |
-| 1. Data data pipeline in duckdb | [🔗 Repository](https://github.com/katwre/Data_engineering-projects/tree/main/duckdb_data_pipeline) |
-| 2. Data frames wrangling in narwhales | [🔗 Repository](https://github.com/katwre/Data_engineering-projects/tree/main/narwhals_data_frames) |
+| **Data engineering projects** | [🔗 Link](https://github.com/katwre/Data_engineering-projects) |
+| 1. Data data pipeline in duckdb | [🔗 Link](https://github.com/katwre/Data_engineering-projects/tree/main/duckdb_data_pipeline) |
+| 2. Data frames wrangling in narwhales | [🔗 Link](https://github.com/katwre/Data_engineering-projects/tree/main/narwhals_data_frames) |
 
 
 
@@ -46,11 +46,11 @@ Data engineering:
 Web-based:
 | Project | Link |
 |--------|------------|
-| **Sudoku game implemented in JavaScript and JQuery** | [🔗 Repository](https://github.com/katwre/sudoku) |
-| **Minesweeper game implemented in Java using SWING and AWT libraries** | [🔗 Repository](https://github.com/katwre/Minesweeper) |
-| **Interactive tool in html+pyodide for finding career match** | [🔗 Repository](https://github.com/katwre/Personalities) |
-| **Django-based server for Multiple Sequence Alignment visualization** | [🔗 Repository](https://github.com/freesci/MSA-vis-project) |
-| **Mobile application using Django, manifesto app, and localStorage** | [🔗 Repository](https://github.com/katwre/phone_application) |
+| **Sudoku game implemented in JavaScript and JQuery** | [🔗 Link](https://github.com/katwre/sudoku) |
+| **Minesweeper game implemented in Java using SWING and AWT libraries** | [🔗 Link](https://github.com/katwre/Minesweeper) |
+| **Interactive tool in html+pyodide for finding career match** | [🔗 Link](https://github.com/katwre/Personalities) |
+| **Django-based server for Multiple Sequence Alignment visualization** | [🔗 Link](https://github.com/freesci/MSA-vis-project) |
+| **Mobile application using Django, manifesto app, and localStorage** | [🔗 Link](https://github.com/katwre/phone_application) |
 
 ---
 
