@@ -7,7 +7,7 @@ I'm a Bioinformatics data scientist passionate about machine learning and diseas
 
 ---
 
-## Check out some of my projects:
+Below are some of my mini side projects, which I implement in my free time to practice, test ideas, and explore new methods in machine learning and bioinformatics:
 
 ML/DL:
 
@@ -21,6 +21,8 @@ ML/DL:
 | 5. RAG in bioinformatics | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/RAG_minimal) |
 | 6. Bayesian State Space Model | [🔗 Repository](SSM_minimal) |
 | 7. VAE, BERT language model/transformer, semi-supervised NMF and lasso/ridge regression/elastic net for the cell type deconvolution | [🔗 Repository](https://github.com/katwre/ML-projects/tree/main/VAE_NMF_Transformer_regression_cfDNA) |
+
+
 | **Bioinformatics projects** | [🔗 Repository](https://github.com/katwre/bioinformatics-projects) |
 | 1. Replica exchange Monte Carlo algorithms for protein folding | [🔗 Repository](https://github.com/katwre/bioinformatics-projects/tree/master/Molecular_Dynamics) |
 | 2. Regulatory region discovery using overrepresented motifs and Ensembl public MySQL Servers | [🔗 Repository](https://github.com/katwre/bioinformatics-projects/tree/master/bio_motif_ensembl) |
