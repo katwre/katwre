@@ -37,6 +37,11 @@ Data engineering:
 | Project | Link |
 |--------|------------|
 | **Data engineering projects** | [🔗 Repository](https://github.com/katwre/Data_engineering-projects) |
+| 1. Data data pipeline in duckdb | [🔗 Repository](https://github.com/katwre/Data_engineering-projects/tree/main/duckdb_data_pipeline) |
+| 2. Data frames wrangling in narwhales | [🔗 Repository](https://github.com/katwre/Data_engineering-projects/tree/main/narwhals_data_frames) |
+
+
+
 
 Web-based:
 | Project | Link |
