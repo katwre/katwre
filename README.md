@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a Bioinformatics data scientist passionate about machine learning and disease (epi)genomics.  
+I'm a bioinformatics data scientist passionate about machine learning and disease (epi)genomics.  
 
 ---
 
