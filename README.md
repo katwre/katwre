@@ -21,6 +21,7 @@ ML/DL:
 | 5. RAG in bioinformatics | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/RAG_minimal) |
 | 6. Bayesian State Space Model | [🔗 Link](SSM_minimal) |
 | 7. VAE, BERT language model/transformer, semi-supervised NMF and lasso/ridge regression/elastic net for the cell type deconvolution | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/VAE_NMF_Transformer_regression_cfDNA) |
+| 8. LLM-based AI-powered assistant in terminal or web UI | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/llm-biodata) |
 
 
 | Project | Link |
