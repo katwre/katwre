@@ -19,7 +19,7 @@ ML/DL:
 | 3. Survival analysis with clinical and gene expression data | [🔗 Link](https://github.com/katwre/survival_analysis/tree/main) |
 | 4. VAE to mitigate batch effects in scRNA-seq using federated learning | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/federated_learning_scRNA-seq) |
 | 5. RAG in bioinformatics | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/RAG_minimal) |
-| 6. Bayesian State Space Model | [🔗 Link](SSM_minimal) |
+| 6. Bayesian State Space Model | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/SSM_minimal) |
 | 7. VAE, BERT language model/transformer, semi-supervised NMF and lasso/ridge regression/elastic net for the cell type deconvolution | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/VAE_NMF_Transformer_regression_cfDNA) |
 | 8. LLM-based AI-powered assistant in terminal or web UI | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/llm-biodata) |
 
