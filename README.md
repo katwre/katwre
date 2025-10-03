@@ -47,11 +47,11 @@ Data engineering:
 Web-based:
 | Project | Link |
 |--------|------------|
-| **Sudoku game implemented in JavaScript and JQuery** | [🔗 Link](https://github.com/katwre/sudoku) |
-| **Minesweeper game implemented in Java using SWING and AWT libraries** | [🔗 Link](https://github.com/katwre/Minesweeper) |
-| **Interactive tool in html+pyodide for finding career match** | [🔗 Link](https://github.com/katwre/Personalities) |
-| **Django-based server for Multiple Sequence Alignment visualization** | [🔗 Link](https://github.com/freesci/MSA-vis-project) |
-| **Mobile application using Django, manifesto app, and localStorage** | [🔗 Link](https://github.com/katwre/phone_application) |
+| Sudoku game implemented in JavaScript and JQuery | [🔗 Link](https://github.com/katwre/sudoku) |
+| Minesweeper game implemented in Java using SWING and AWT libraries | [🔗 Link](https://github.com/katwre/Minesweeper) |
+| Interactive tool in html+pyodide for finding career match | [🔗 Link](https://github.com/katwre/Personalities) |
+| Django-based server for Multiple Sequence Alignment visualization | [🔗 Link](https://github.com/freesci/MSA-vis-project) |
+| Mobile application using Django, manifesto app, and localStorage | [🔗 Link](https://github.com/katwre/phone_application) |
 
 ---
 
