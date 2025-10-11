@@ -22,6 +22,8 @@ ML/DL:
 | 6. Bayesian State Space Model | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/SSM_minimal) |
 | 7. VAE, BERT language model/transformer, semi-supervised NMF and lasso/ridge regression/elastic net for the cell type deconvolution | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/VAE_NMF_Transformer_regression_cfDNA) |
 | 8. LLM-based AI-powered assistant in terminal or web UI | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/llm-biodata) |
+| 9. GNNs for spatial transcriptomics | [🔗 Link](https://github.com/katwre/ML-projects/tree/main/GNN_spatialomics) |
+
 
 
 | Project | Link |
@@ -29,8 +31,10 @@ ML/DL:
 | **Bioinformatics projects** | [🔗 Link](https://github.com/katwre/bioinformatics-projects) |
 | 1. Replica exchange Monte Carlo algorithms for protein folding | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/Molecular_Dynamics) |
 | 2. Regulatory region discovery using overrepresented motifs and Ensembl public MySQL Servers | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/bio_motif_ensembl) |
-| 3. De Bruijn Graph implementation with Eulerian walk-finder | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/genome_assembly) |
-| **R package for transcription regulatory networks from NGS** | [🔗 Link](https://github.com/katwre/motifActivity)
+| 3. Genome assembly using de Bruijn Graph implementation with Eulerian walk-finder | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/genome_assembly) |
+| 4. Implementation of the Felsenstein's tree-pruning and the Nearest-Neighbor Interchange (NNI) algorithms | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/comparative_genomics) |
+| 5. Potential regulatory region discovery algorithm based on the binomial distribution of overrepresented motifs that uses the Ensembl public MySQL Servers | [🔗 Link](https://github.com/katwre/bioinformatics-projects/tree/master/bio_motif_ensembl) |
+| 6. R package for transcription regulatory networks from NGS | [🔗 Link](https://github.com/katwre/motifActivity)
 
 
 Data engineering:
