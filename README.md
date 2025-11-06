@@ -8,7 +8,7 @@ I'm a bioinformatics data scientist passionate about machine learning and diseas
 ---
 
 
-Below are some of my mini side projects, which I implement in my free time to practice, test ideas, and explore new methods in machine learning, bioinformatics and data engineering.
+Below are some of my small side projects that I build in my free time to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and data engineering.
 
 - Machine and deep learning projects (incl. autoencoders, CNNs, VAEs, transformers, GNNs)  [🔗 Link](https://github.com/katwre/ML-projects)
 - Bioinformatics projects (incl. simulated annealing and replica exchange Monte Carlo, Felsenstein's tree-pruning and de Bruijn graph with eulerian walk-finder algorithm) [🔗 Link](https://github.com/katwre/bioinformatics-projects)
