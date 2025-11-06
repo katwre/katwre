@@ -3,12 +3,12 @@
 
 ## About Me
 
-I'm a bioinformatics data scientist passionate about machine learning and disease (epi)genomics.  
+
+I'm a data scientist and software developer with a background in computer science (BSc, MSc) and a PhD in bioinformatics. I'm interested in decoding disease biology using computational approaches.
 
 ---
 
-
-Below are some of my small side projects that I build in my free time to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and data engineering.
+Below are some of my small side projects that I build in my free time to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and software development.
 
 - Machine and deep learning projects (incl. autoencoders, CNNs, VAEs, transformers, GNNs)  [🔗 Link](https://github.com/katwre/ML-projects)
 - Bioinformatics projects (incl. simulated annealing and replica exchange Monte Carlo, Felsenstein's tree-pruning and de Bruijn graph with eulerian walk-finder algorithm) [🔗 Link](https://github.com/katwre/bioinformatics-projects)
