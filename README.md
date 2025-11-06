@@ -8,7 +8,7 @@ I'm a bioinformatics data scientist passionate about machine learning and diseas
 ---
 
 
-Below are some of my mini side projects, which I implement in my free time to practice, test ideas, and explore new methods in machine learning and bioinformatics.
+Below are some of my mini side projects, which I implement in my free time to practice, test ideas, and explore new methods in machine learning, bioinformatics and data engineering.
 
 - Machine and deep learning projects [🔗 Link](https://github.com/katwre/ML-projects)
 - Bioinformatics projects [🔗 Link](https://github.com/katwre/bioinformatics-projects)
