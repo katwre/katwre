@@ -16,7 +16,8 @@ Below are some of my small side projects that I build in my free time to learn, 
 - Data engineering (incl. data pipelines in DuckDB, and data wrangling in Narwhals) [🔗 Link](https://github.com/katwre/Data_engineering-projects)
 - Web-based: Sudoku game implemented in JavaScript and JQuery [🔗 Link](https://github.com/katwre/sudoku), Minesweeper game implemented in Java using SWING and AWT libraries [🔗 Link](https://github.com/katwre/Minesweeper), Django-based server for Multiple Sequence Alignment visualization [🔗 Link](https://github.com/freesci/MSA-vis-project), Mobile application using Django, manifesto app, and localStorage [🔗 Link](https://github.com/katwre/phone_application), Interactive tool in html+pyodide for finding career match [🔗 Link](https://github.com/katwre/Personalities)
 - Predicting Molecular Solubility in Water via a Flask API deployed on AWS Elastic Beanstalk [🔗 Link](https://github.com/katwre/Solubility/)
-- Immune cell classifier trained on H&E-stained images using Xception + MLP, exported to TFLite and deployed via an AWS Lambda Docker image  [🔗 Link](https://github.com/katwre/Immune-cell-classifier-api) 
+- Immune cell classifier trained on H&E-stained images using Xception + MLP, exported to TFLite and deployed via an AWS Lambda Docker image  [🔗 Link](https://github.com/katwre/Immune-cell-classifier-api)
+- Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
 
 ---
 
