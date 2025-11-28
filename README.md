@@ -18,7 +18,7 @@ Below are some of my small side projects that I build in my free time to learn, 
 - Predicting Molecular Solubility in Water via a Flask API deployed on AWS Elastic Beanstalk [🔗 Link](https://github.com/katwre/Solubility/)
 - Immune cell classifier trained on H&E-stained images using Xception + MLP, exported to TFLite and deployed via an AWS Lambda Docker image  [🔗 Link](https://github.com/katwre/Immune-cell-classifier-api)
 - Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
-- A pilot study for classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
+- A pilot study for classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
 
 ---
 
