@@ -19,6 +19,7 @@ Below are some of my small side projects that I build in my free time to learn, 
 - Immune cell classifier trained on H&E-stained images using Xception + MLP, exported to TFLite and deployed via an AWS Lambda Docker image  [🔗 Link](https://github.com/katwre/Immune-cell-classifier-api)
 - Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
 - Classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
+- Lovable-built web app for real-time collaborative coding interviews deployed on Google Cloud Run [🔗 Link](https://github.com/katwre/collabcode-live)
 
 ---
 
