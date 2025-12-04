@@ -8,7 +8,7 @@ I'm a data scientist and software developer with a background in computer scienc
 
 ---
 
-Below are some of my small side projects that I build in my free time to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and software development.
+Below are some of my side projects that I build in my free time to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and software development.
 
 - Machine and deep learning projects (incl. autoencoders, CNNs, VAEs, transformers, GNNs)  [🔗 Link](https://github.com/katwre/ML-projects)
 - Implementations of computational biology algorithms (incl. simulated annealing and replica exchange Monte Carlo for protein folding, Felsenstein's tree-pruning for computing likelihood of evolutionary trees and de Bruijn graph with eulerian walk-finder algorithm for genome assembly) [🔗 Link](https://github.com/katwre/bioinformatics-projects)
