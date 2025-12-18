@@ -41,7 +41,6 @@ Below are some of my side projects that I build in my free time to learn, protot
 - Classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
 - Lovable-built web app for real-time collaborative coding interviews deployed on Google Cloud Run [🔗 Link](https://github.com/katwre/collabcode-live)
 - Gene type prediction from DNA sequence using a Transformer encoder - ONNX Runtime inference, FastAPI + BentoML serving, deployed on AWS EKS (Kubernetes) [🔗 Link](https://github.com/katwre/Genetype-classifier-api)
-- Bayesian formulation of A/B testing using the beta-binomial model (PyMC) [🔗 Link](https://github.com/katwre/Bayesian_inference_ABtesting_PyMC)
 
 ---
 
