@@ -13,9 +13,9 @@ Below are some of my side projects that I build in my free time to learn, protot
 
 - Machine and deep learning end-to-end projects with APIs:
     - Gene type prediction from DNA sequence using a Transformer encoder - ONNX Runtime inference, FastAPI + BentoML serving, Docker compose, deployed on AWS EKS (Kubernetes) [🔗 Link](https://github.com/katwre/Genetype-classifier-api)
-    - Diffusion-based generative modeling and inpainting of H&E-stained blood cell images, deployed via Streamlit and AWS Batch [🔗 Link](https://github.com/katwre/Diffusion-models-for-cell-images)
     - Predicting Molecular Solubility in Water via a Flask API deployed on AWS Elastic Beanstalk [🔗 Link](https://github.com/katwre/Solubility/)
     - Immune cell classifier trained on H&E-stained images using Xception + MLP, exported to TFLite and deployed via Docker and AWS Lambda [🔗 Link](https://github.com/katwre/Immune-cell-classifier-api)
+    - Diffusion-based generative modeling and inpainting of H&E-stained blood cell images, deployed via Streamlit and AWS Batch [🔗 Link](https://github.com/katwre/Diffusion-models-for-cell-images)
 
 - Machine and deep learning playground [🔗 Link](https://github.com/katwre/ML-projects):
     - Classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
