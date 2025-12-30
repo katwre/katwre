@@ -8,7 +8,7 @@ I'm a data scientist and software developer with a background in computer scienc
 
 ---
 
-Below are some of my side projects that I build in my free time to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and software development.
+Below are some of my projects that I build to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and software development.
 
 
 - Machine and deep learning end-to-end projects with APIs:
