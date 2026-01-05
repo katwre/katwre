@@ -43,14 +43,18 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - data pipelines in DuckDB
     - data wrangling in Polars and Narwhals
 
+- AI-dev tools
+    - Lovable-built web app for real-time collaborative coding interviews deployed on Google Cloud Run [🔗 Link](https://github.com/katwre/collabcode-live)
+    - MCP Server Demo that uses FastMCP, Jina Reader, and minsearch for web scraping and query-based document retrieval from GitHub archives [🔗 Link](https://github.com/katwre/MCP-server-demo)
+
 
 - Web-based: 
-    - Lovable-built web app for real-time collaborative coding interviews deployed on Google Cloud Run [🔗 Link](https://github.com/katwre/collabcode-live)
     - Sudoku game implemented in JavaScript and JQuery [🔗 Link](https://github.com/katwre/sudoku)
     - Minesweeper game implemented in Java using SWING and AWT libraries [🔗 Link](https://github.com/katwre/Minesweeper)
     - Django-based server for Multiple Sequence Alignment visualization [🔗 Link](https://github.com/freesci/MSA-vis-project)
     - Mobile application using Django, manifesto app, and localStorage [🔗 Link](https://github.com/katwre/phone_application)
     - Interactive tool in html+pyodide for finding career match [🔗 Link](https://github.com/katwre/Personalities)
+
 
 ---
 
