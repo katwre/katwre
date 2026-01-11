@@ -18,9 +18,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - Diffusion-based generative modeling and inpainting of H&E-stained blood cell images, deployed via Streamlit and AWS Batch [🔗 Link](https://github.com/katwre/Diffusion-models-for-cell-images)
 
 - Machine and deep learning playground (2020, 2015) [🔗 Link](https://github.com/katwre/ML-projects):
-    - Classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
     - Surival analysis - Multiple Myeloma data challenge
-    - R package for the computational reconstruction of transcription regulatory networks from high-throughput data [🔗 Link](https://github.com/katwre/motifActivity)
     - Autoencoders and single-cell RNA-seq data imputation
     - CNNs and image classification
     - VAEs to mitigate batch effects in scRNA-seq using federated learning
@@ -30,7 +28,9 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - Bayesian A/B Testing with a beta-binomial model for user / email / page view results
     - Retrieval-Augmented Generation (RAG) applied in bioinformatics
     - LLM-powered SPARQL bioinformatics assistant
+    - R package for the computational reconstruction of transcription regulatory networks from high-throughput data [🔗 Link](https://github.com/katwre/motifActivity)
     - Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
+    - Classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
 
 
 - Implementations of computational biology algorithms (2012-2014) [🔗 Link](https://github.com/katwre/bioinformatics-projects):
