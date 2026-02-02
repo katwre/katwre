@@ -44,7 +44,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - data wrangling in Polars and Narwhals
 
 - AI for developer workflows (2025-2026):
-    - An interactive web-based spatial transcriptomics platform that visualizes gene expression with AI-powered gene summaries [🔗 Link](https://github.com/katwre/Spatial_explorer_api)
+    - An interactive web-based spatial transcriptomics platform that visualizes gene expression, includes a chatbox, AI-powered gene summaries, and optional SpaGCN-based spatial domain analysis via a ChatSpatial MCP server [🔗 Link](https://github.com/katwre/Spatial_explorer_api)
     - Full-stack web application for automated 16S rRNA microbiome analysis using Django REST API, React TypeScript frontend, bioinformatics nf-core/ampliseq pipeline (DADA2, GTDB), with Docker containerization and CI/CD deployment to Render [🔗 Link](https://github.com/katwre/Microbiome-ai-dev)
     - Lovable-built web app for real-time collaborative coding interviews deployed on Google Cloud Run [🔗 Link](https://github.com/katwre/collabcode-live)
     - MCP Server Demo that uses FastMCP, Jina Reader, and minsearch for web scraping and query-based document retrieval from GitHub archives [🔗 Link](https://github.com/katwre/MCP-server-demo)
