@@ -10,7 +10,7 @@ I'm a data scientist and software developer with a background in computer scienc
 
 Below are some of my projects that I build to learn, prototype ideas, and explore different approaches in machine learning, bioinformatics, and software development.
 
-#### ML/DL with APIs
+#### Production ML/AI projects
 
 - Machine and deep learning end-to-end projects with APIs (2025):
     - Gene type prediction from DNA sequence using a Transformer encoder - ONNX Runtime inference, FastAPI + BentoML serving, Docker compose, deployed on AWS EKS (Kubernetes) [🔗 Link](https://github.com/katwre/Genetype-classifier-api)
@@ -18,7 +18,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - Immune cell classifier trained on H&E-stained images using Xception + MLP, exported to TFLite and deployed via Docker and AWS Lambda [🔗 Link](https://github.com/katwre/Immune-cell-classifier-api)
     - Diffusion-based generative modeling and inpainting of H&E-stained blood cell images, deployed via Streamlit and AWS Batch [🔗 Link](https://github.com/katwre/Diffusion-models-for-cell-images)
 
-#### ML/DL playground
+#### Research & Prototyping
 
 - Machine and deep learning playground (2020, 2025) [🔗 Link](https://github.com/katwre/ML-projects):
     - Surival analysis - Multiple Myeloma data challenge
@@ -56,7 +56,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - Lovable-built web app for real-time collaborative coding interviews deployed on Google Cloud Run [🔗 Link](https://github.com/katwre/collabcode-live)
     - MCP Server Demo that uses FastMCP, Jina Reader, and minsearch for web scraping and query-based document retrieval from GitHub archives [🔗 Link](https://github.com/katwre/MCP-server-demo)
 
-#### Web-based
+#### Web applications
 
 - Web-based servers, apps and games (2012-2014, 2025): 
     - Sudoku game implemented in JavaScript and JQuery [🔗 Link](https://github.com/katwre/sudoku)
