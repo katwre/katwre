@@ -36,6 +36,10 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - Classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
 
 
+- GPU computing (2026) [🔗 Link](https://github.com/katwre/GPU-computing-projects)
+    - GPU computing fundamentals (CUDA, CuPy), CPU vs GPU performance comparisons, and RAPIDS libraries (cuDF, cuML)
+
+
 - Implementations of computational biology algorithms (2012-2014) [🔗 Link](https://github.com/katwre/bioinformatics-projects):
     - simulated annealing and replica exchange Monte Carlo for protein folding
     - Felsenstein's tree-pruning for computing likelihood of evolutionary trees
