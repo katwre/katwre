@@ -41,7 +41,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
 
 
 - Implementations of computational biology algorithms (2012-2014) [🔗 Link](https://github.com/katwre/bioinformatics-projects):
-    - simulated annealing and replica exchange Monte Carlo, both based on the Metropolis-Hastings MCMC framework, for protein folding
+    - simulated annealing (temperature scheduling) and replica exchange (parallel tempering), both based on the Metropolis-Hastings MCMC framework, for protein folding
     - Felsenstein's tree-pruning for computing likelihood of evolutionary trees
     - de Bruijn graph with eulerian walk-finder algorithm for genome assembly
 
