@@ -49,7 +49,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
 #### Data engineering
 
 - Data engineering (2025-2026) [🔗 Link](https://github.com/katwre/Data_engineering-projects):
-    - Real-time bike availability analytics pipeline powered by GBFS, Kafka + Zookeeper, Kestra, MinIO, dbt, and Streamlit [🔗 Link](https://github.com/katwre/gbfs-bike-monitoring)     
+    - Real-time streaming analytics for urban bike-sharing systems using Kafka, dbt, and Streamlit, deployed to AWS with Terraform CI/CD [🔗 Link](https://github.com/katwre/gbfs-bike-monitoring)     
     - data pipelines in DuckDB
     - data wrangling in Polars and Narwhals
 
