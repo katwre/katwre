@@ -4,7 +4,7 @@
 ## About Me
 
 
-I'm a data scientist and software developer with a background in computer science (BSc, MSc) and a PhD in bioinformatics. I'm interested in decoding disease biology using computational approaches.
+I'm a machine learning scientist and computational biologist with a background in computer science and bioinformatics (BSc, MSc) and a PhD in computational biology. I'm interested in decoding disease biology using computational approaches.
 
 ---
 
