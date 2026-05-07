@@ -31,7 +31,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - Bayesian A/B Testing with a beta-binomial model for user / email / page view results
     - Retrieval-Augmented Generation (RAG) applied in bioinformatics
     - LLM-powered SPARQL bioinformatics assistant
-    - R package for the computational reconstruction of transcription regulatory networks from high-throughput data [🔗 Link](https://github.com/katwre/motifActivity)
+    - motifActivity R package for the computational reconstruction of transcription regulatory networks from high-throughput data [🔗 Link](https://github.com/katwre/motifActivity)
     - Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
     - Classifying endometriosis using single-cell RNA-seq from menstrual effluent via generative modeling and transfer learning [🔗 Link](https://github.com/katwre/Endometriosis-mes-effluent-classifier)
 - Cross-platform spatial transcriptomics integration - scFFPE-seq, Visium, and Xenium (2026) [🔗 Link](https://github.com/katwre/visium-xenium-scFFPEseqreference-mapping)
