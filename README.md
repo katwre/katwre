@@ -38,6 +38,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
 
 - GPU computing (2026) [🔗 Link](https://github.com/katwre/GPU-computing-projects)
     - GPU basics (CuPy, CUDA/numba) and RAPIDS libraries (cuDF, cuML)
+    - Introduction to openMP in Fortran, Python/Numba, and C++
 
 
 - Implementations of computational biology algorithms (2012-2014) [🔗 Link](https://github.com/katwre/bioinformatics-projects):
