@@ -35,6 +35,7 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
       
 - Cross-platform spatial transcriptomics integration - scFFPE-seq, Visium, and Xenium (2026) [🔗 Link](https://github.com/katwre/visium-xenium-scFFPEseqreference-mapping)
+- Single-cell CyTOF analysis of DNA damage response dynamics (γH2AX) across major PBMC immune lineages (2026) [🔗 Link](https://github.com/katwre/visium-xenium-scFFPEseqreference-mapping](https://github.com/katwre/cytof-ddr-immune-kinetics)
 
 - GPU computing (2026) [🔗 Link](https://github.com/katwre/GPU-computing-projects)
     - GPU basics (CuPy, CUDA/numba) and RAPIDS libraries (cuDF, cuML)
