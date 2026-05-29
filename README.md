@@ -20,6 +20,9 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
 
 #### Research & Prototyping
 
+- Cross-platform spatial transcriptomics integration - scFFPE-seq, Visium, and Xenium (2026) [🔗 Link](https://github.com/katwre/visium-xenium-scFFPEseqreference-mapping)
+- Single-cell CyTOF analysis of DNA damage response dynamics (γH2AX) across major PBMC immune lineages (2026) [🔗 Link](https://github.com/katwre/cytof-ddr-immune-kinetics)
+
 - Machine and deep learning playground (2020, 2025) [🔗 Link](https://github.com/katwre/ML-projects):
     - Surival analysis - Multiple Myeloma data challenge
     - Autoencoders and single-cell RNA-seq data imputation
@@ -34,8 +37,6 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
     - motifActivity R package for the computational reconstruction of transcription regulatory networks from high-throughput data [🔗 Link](https://github.com/katwre/motifActivity)
     - Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
       
-- Cross-platform spatial transcriptomics integration - scFFPE-seq, Visium, and Xenium (2026) [🔗 Link](https://github.com/katwre/visium-xenium-scFFPEseqreference-mapping)
-- Single-cell CyTOF analysis of DNA damage response dynamics (γH2AX) across major PBMC immune lineages (2026) [🔗 Link](https://github.com/katwre/visium-xenium-scFFPEseqreference-mapping](https://github.com/katwre/cytof-ddr-immune-kinetics)
 
 - GPU computing (2026) [🔗 Link](https://github.com/katwre/GPU-computing-projects)
     - GPU basics (CuPy, CUDA/numba) and RAPIDS libraries (cuDF, cuML)
