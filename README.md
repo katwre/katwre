@@ -26,10 +26,11 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
 - Machine and deep learning playground (2020, 2025) [🔗 Link](https://github.com/katwre/ML-projects):
     - Surival analysis - Multiple Myeloma data challenge
     - Deep learning (VAE, GNNs, CNNs, transfler learning) for X-ray images, scRNAseq, spatial trascriptomics (Visium H&E staining)
-    - Bayesian state space models, Bayesian A/B Testing
     - RAG, LLM-powered SPARQL bioinformatics assistant
-    - motifActivity R package for the computational reconstruction of transcription regulatory networks from high-throughput data [🔗 Link](https://github.com/katwre/motifActivity)
     - Optimizing XGBoost hyperparameters with Bayesian optimization using Hyperopt and explaining model predictions with SHAP/LIME [🔗 Link](https://github.com/katwre/XGBoost_Bayesian_Optimization)
+    - Bayesian state space models, Bayesian A/B Testing
+    - motifActivity R package for the computational reconstruction of transcription regulatory networks from high-throughput data [🔗 Link](https://github.com/katwre/motifActivity)
+
       
 - GPU computing playground (2026) [🔗 Link](https://github.com/katwre/GPU-computing-projects)
     - GPU basics (CuPy, CUDA/numba) and RAPIDS libraries (cuDF, cuML)
