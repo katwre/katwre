@@ -60,13 +60,11 @@ Below are some of my projects that I build to learn, prototype ideas, and explor
 
 #### Web applications
 
-- Web-based servers, apps and games (2012-2014, 2025): 
+- Web-based servers, apps and games (2012-2014): 
     - Sudoku game implemented in JavaScript and JQuery [🔗 Link](https://github.com/katwre/sudoku)
     - Minesweeper game implemented in Java using SWING and AWT libraries [🔗 Link](https://github.com/katwre/Minesweeper)
     - Django-based server for Multiple Sequence Alignment visualization [🔗 Link](https://github.com/freesci/MSA-vis-project)
     - Mobile application using Django, manifesto app, and localStorage [🔗 Link](https://github.com/katwre/phone_application)
-    - Interactive tool in html+pyodide for finding career match [🔗 Link](https://github.com/katwre/Personalities)
-
 
 ---
 
